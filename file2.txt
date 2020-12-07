@@ -1,1 +1,3 @@
 Hello file2
+
+Online change for checking git pull instead of git fetch + git merge.
