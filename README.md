@@ -1,6 +1,6 @@
 # DemoRepository
 
-## Starting MD Test -> Markdown Test
+## Starting MD Test -> Markdown Test from [GitHub Docs](https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax)
 
 ###### The smallest heading
 
@@ -10,13 +10,21 @@ This repo is supposed to be used as demo repo for learning Git.
 
 Styling Text:
 **This text is bold. (esteric)**
+
 __This text is bold. (underscore)__
+
 *This text is in italics. (esteric)*
+
 _This text is in italics. (underscore)_
+
 ~~This is Strikethrough~~
+
 **Bold and *italics* (esteric)** 
+
 __Bold and _italics_ (underscore)__ 
+
 ***All bold and italics (esterics)***
+
 ___All bold and italics (underscore)___
 
 
@@ -67,3 +75,4 @@ Task Lists:
 - [ ] task 3
 - [ ] task 4
 - [ ] \(optional) task 5
+
